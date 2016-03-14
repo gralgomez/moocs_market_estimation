@@ -1,0 +1,130 @@
+Country,Region,EN_de_jure_pop,EF_proficency_rate_2015,Primary language?
+ Botswana ,Africa,1882000,,No
+ Cameroon,Africa,22534532,,No
+ Gambia,Africa,1709000,,No
+ Ghana,Africa,27000000,,Yes
+ Kenya,Africa,45010056,,Yes
+ Lesotho,Africa,2008000,,Yes
+ Liberia,Africa,3750000,,No
+ Malawi,Africa,16407000,,No
+ Namibia,Africa,2074000,,Yes
+ Nigeria,Africa,182202000,,Yes
+ Rwanda,Africa,11262564,,No (but official and educational)
+ Seychelles,Africa,87000,,No
+ Sierra Leone,Africa,6190280,,No
+ Somaliland,Africa,3500000,,No
+ South Africa,Africa,54956900,,No (but official and educational)
+ South Sudan,Africa,12340000,,No
+ Sudan,Africa,40235000,,No
+ Swaziland,Africa,1141000,,No
+ Tanzania,Africa,51820000,,No
+ Uganda,Africa,37873253,,Yes
+ Zambia,Africa,16212000,,No
+ Zimbabwe,Africa,13061239,,Yes
+ India,Asia,1247540000,,No (but official and educational)
+ Pakistan,Asia,199085847,,No (but official and educational)
+ Philippines,Asia,102885100,,No (but official and educational)
+ Singapore,Asia,5469700,,Yes
+ Antigua and Barbuda,Caribbean,85000,,Yes
+ Bahamas,Caribbean,331000,,Yes
+ Barbados,Caribbean,294000,,Yes
+ Belize,Caribbean,288000,,Yes
+ Dominica,Caribbean,73000,,Yes
+ Grenada,Caribbean,106000,,Yes
+ Guyana,Caribbean,738000,,Yes
+ Jamaica,Caribbean,2714000,,Yes
+ Saint Kitts and Nevis,Caribbean,50000,,Yes
+ Saint Lucia,Caribbean,165000,,No
+ Saint Vincent and the Grenadines,Caribbean,120000,,Yes
+ Trinidad and Tobago,Caribbean,1333000,,Yes
+ Ireland,Europe,4581000,,No
+ Malta,Europe,430000,,No (but official and educational)
+ United Kingdom of Great Britain and Northern Ireland,Europe,63705000,,Yes
+ Canada,North America,35985751,,"Yes (ex. Quebec, parts of New Brunswick)"
+ United States of America,North America,318224000,,Yes
+ Cook Islands,Oceania,20000,,Yes
+ Federated States of Micronesia,Oceania,111000,,No
+ Fiji,Oceania,828000,,No
+ Kiribati,Oceania,95000,,No
+ Marshall Islands,Oceania,59000,,No
+ Nauru,Oceania,10000,,No
+ Niue,Oceania,1600,,No
+ Palau,Oceania,20000,,No
+ Papua New Guinea,Oceania,7059653,,No
+ Samoa,Oceania,188000,,No
+ Solomon Islands,Oceania,507000,,No
+ Tonga,Oceania,100000,,No
+ Tuvalu,Oceania,11000,,No
+ Vanuatu,Oceania,226000,,No
+ Australia,Oceania,23520000,,Yes
+ New Zealand,Oceania,4294000,,Yes
+Sweden,Europe,,70.94,No
+Netherlands,Europe,,70.58,No
+Denmark,Europe,,70.05,No
+Norway,Europe,,67.83,No
+Finland,Europe,,65.32,No
+Slovenia,Europe,,64.97,No
+Estonia,Europe,,63.73,No
+Luxembourg,Europe,,63.45,No
+Poland,Europe,,62.95,No
+Austria,Europe,,61.97,No
+Germany,Europe,,61.83,No
+Portugal,Europe,,60.61,No
+Romania,Europe,,59.69,No
+Belgium,Europe,,59.13,No
+Czech Republic,Europe,,59.01,No
+Switzerland,Europe,,58.43,No
+Hungary,Europe,,57.9,No
+Latvia,Europe,,57.16,No
+Spain,Europe,,56.8,No
+Slovakia,Europe,,56.34,No
+Lithuania,Europe,,55.08,No
+Italy,Europe,,54.02,No
+Ukraine,Europe,,52.61,No
+France,Europe,,51.84,No
+Russia,Europe,,51.59,No
+Turkey,Europe,,47.62,No
+Azerbaijan,Europe,,46.12,No
+Singapore,Asia,,61.08,No
+Malaysia,Asia,,60.3,No
+India,Asia,,58.21,No
+South Korea,Asia,,54.52,No
+Vietnam,Asia,,53.81,No
+Japan,Asia,,53.57,No
+Taiwan,Asia,,53.18,No
+Indonesia,Asia,,52.91,No
+Hong Kong,Asia,,52.7,No
+Pakistan,Asia,,49.96,No
+China,Asia,,49.41,No
+Sri Lanka,Asia,,47.89,No
+Kazakhstan,Asia,,47.04,No
+Thailand,Asia,,45.35,No
+Mongolia,Asia,,43.64,No
+Cambodia,Asia,,39.15,No
+Argentina,Latinamerica,,60.26,No
+Dominican Republic,Latinamerica,,56.71,No
+Peru,Latinamerica,,52.46,No
+Chile,Latinamerica,,51.88,No
+Ecuador,Latinamerica,,51.67,No
+Mexico,Latinamerica,,51.34,No
+Brazil,Latinamerica,,51.05,No
+Costa Rica,Latinamerica,,50.53,No
+Uruguay,Latinamerica,,50.25,No
+Guatemala,Latinamerica,,49.67,No
+Panama,Latinamerica,,48.77,No
+Colombia,Latinamerica,,46.54,No
+Venezuela,Latinamerica,,46.14,No
+El Salvador,Latinamerica,,45.52,No
+U.A.E.,Middle East nd North America,,50.87,No
+Yemen,Middle East nd North America,,47.6,No
+Morocco,Middle East nd North America,,47.4,No
+Jordan,Middle East nd North America,,47.33,No
+Egypt,Middle East nd North America,,46.73,No
+Iran,Middle East nd North America,,46.59,No
+Oman,Middle East nd North America,,46.34,No
+Qatar,Middle East nd North America,,43.72,No
+Kuwait,Middle East nd North America,,42.65,No
+Iraq,Middle East nd North America,,40.69,No
+Algeria,Middle East nd North America,,40.34,No
+Saudi Arabia,Middle East nd North America,,39.93,No
+Libya,Middle East nd North America,,37.86,No
